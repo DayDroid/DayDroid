@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I'm DayDroid!
+<a href="https://github.com/DayDroid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayDroid&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffd7d7&icon_color=534e63&bg_color=1F2937" alt="My GitHub Statistics"/>
+</a>
 
-<!--
-**DayDroid/DayDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/DayDroid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDroid&hide=html&title_color=ffffff&text_color=ffffff&icon_color=ffd7d7&bg_color=1f2937" alt="My Github Statistics"/>
+</a>
+<br />
+<br />
+I code stuff (^人^)
 
-Here are some ideas to get you started:
+## Languages:
+- Java
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Discord
+  . .#0020
