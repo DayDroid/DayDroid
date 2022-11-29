@@ -27,6 +27,6 @@ $\color{lightblue}{\textrm{- Khalil Gibran}}$
 
 
 ## Discord
-. .#0020
+Developer#0020
   
   
