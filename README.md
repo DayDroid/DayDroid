@@ -11,15 +11,6 @@
 
 I code stuff (^人^)
 
-$\color{lightblue}{\textrm{Your pain is the breaking of the shell that encloses your understanding.}}$
-
-$\color{lightblue}{\textrm{It is the bitter potion by which the physician within you heals your sick self.}}$
-
-$\color{lightblue}{\textrm{Therefore trust the physician, and drink his remedy in silence and tranquillity}}$
-
-
-$\color{lightblue}{\textrm{- Khalil Gibran}}$
-
 
 ## Languages:
 - Java
